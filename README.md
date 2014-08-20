@@ -17,6 +17,7 @@ Source: [http://geojournalism.org/about](http://geojournalism.org/about/)
 ---
 
 **1. Deforestation diagram with Adobe Illustrator**
+
 	* [Files]()
 	* [Original Tutorial](http://geojournalism.org/2013/08/portugues-as-cidades-mais-populosas-do-mundo/)
 
