@@ -1,7 +1,7 @@
 # Geojournalism Handbook Tutorials
  
 This series of tutorials was originally produced for the [Geojournalism
-Handbook](http://geojournalism.org/)
+Handbook](http://geojournalism.org/).
 
 The [Geojournalism
 Handbook](http://geojournalism.org/) is part of the portfolio of the
