@@ -18,17 +18,20 @@ Source: [http://geojournalism.org/about](http://geojournalism.org/about/)
 
 **1. Deforestation diagram with Adobe Illustrator**
 
-	* [Files]()
-	* [Original Tutorial](http://geojournalism.org/2013/08/portugues-as-cidades-mais-populosas-do-mundo/)
+ * [Files]()
+ * [Original Tutorial](http://geojournalism.org/2013/07/grafico-sobre-desmatamento-com-adobe-illustrator/)
 
 **2. Visualizing data with Processing**
-	* [Files]()
-	* [Original Tutorial](http://geojournalism.org/2013/08/portugues-as-cidades-mais-populosas-do-mundo/)
+
+ * [Files]()
+ * [Original Tutorial](http://geojournalism.org/2013/08/portugues-as-cidades-mais-populosas-do-mundo/)
 	
 **3. Pesticides in Brazil**
-	* [Files]()
-	* [Original Tutorial](http://geojournalism.org/2013/08/portugues-as-cidades-mais-populosas-do-mundo/)
+
+ * [Files]()
+ * [Original Tutorial]()
 
 **4. Garbage Collection in Manhattan**
-	* [Files]()
-	* [Original Tutorial](http://geojournalism.org/2013/08/portugues-as-cidades-mais-populosas-do-mundo/)	
+
+ * [Files]()
+ * [Original Tutorial]()
