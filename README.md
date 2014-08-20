@@ -22,7 +22,6 @@ Source: [http://geojournalism.org/about](http://geojournalism.org/about/)
  * [Original Tutorial](http://geojournalism.org/2013/07/grafico-sobre-desmatamento-com-adobe-illustrator/)
 
 **2. Visualizing data with Processing**
-
  * [Files]()
  * [Original Tutorial](http://geojournalism.org/2013/08/portugues-as-cidades-mais-populosas-do-mundo/)
 	
