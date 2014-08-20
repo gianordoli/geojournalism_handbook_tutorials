@@ -18,19 +18,20 @@ Source: [http://geojournalism.org/about](http://geojournalism.org/about/)
 
 **1. Deforestation diagram with Adobe Illustrator**
 
- * [Files]()
+ * [Files](https://github.com/gianordoli/geojournalism_handbook_tutorials/tree/master/tutorial_1_deforestation_in_amazon)
  * [Original Tutorial](http://geojournalism.org/2013/07/grafico-sobre-desmatamento-com-adobe-illustrator/)
 
 **2. Visualizing data with Processing**
- * [Files]()
+
+ * [Files](https://github.com/gianordoli/geojournalism_handbook_tutorials/tree/master/tutorial_2_largest_cities_by_population)
  * [Original Tutorial](http://geojournalism.org/2013/08/portugues-as-cidades-mais-populosas-do-mundo/)
 	
 **3. Pesticides in Brazil**
 
- * [Files]()
+ * [Files](https://github.com/gianordoli/geojournalism_handbook_tutorials/tree/master/tutorial_3_pesticides_in_brazil)
  * [Original Tutorial]()
 
 **4. Garbage Collection in Manhattan**
 
- * [Files]()
+ * [Files](https://github.com/gianordoli/geojournalism_handbook_tutorials/tree/master/tutorial_4_manhattan_garbage_collection)
  * [Original Tutorial]()
